@@ -50,3 +50,4 @@ Pokaż wszystkich studentów:
 Kliknij przycisk "Show All Students", aby zobaczyć listę wszystkich studentów zapisanych w bazie danych.
 Oblicz średnią ocenę:
 Kliknij przycisk "Calculate Average Grade", aby obliczyć średnią ocenę wszystkich studentów zapisanych w bazie danych.
+# test
